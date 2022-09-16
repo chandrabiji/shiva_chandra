@@ -1,5 +1,11 @@
 Hi how are you?
 I am fine.What about you?
+<<<<<<< HEAD
 Am good Lets Start learning SalesForce
 let me work more on this
 ok 
+=======
+Thank you
+Am good Lets Start learning SalesForce
+
+>>>>>>> 1db5d1ee69cc7be67eaff8efddc8d46092a52655
